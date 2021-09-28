@@ -2,7 +2,7 @@ import React from 'react';
 
 const Account = () => (
   <div>
-    <h1>Account</h1>
+    <h1>Bitch ass Account</h1>
   </div>
 );
 
